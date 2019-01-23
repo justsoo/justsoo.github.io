@@ -81,7 +81,7 @@ experiences:
     - role: 개발자
       time: 2018.02 - 현재
       company: 스마일게이트 스토브
-      details: |
+      details: |      
           - 해외 PG 연동 및 Restful API 개발.
     - role: 개발자
       time: 2017.09 - 2018.02
@@ -145,7 +145,7 @@ skills:
         level: 80%
 
       - name: Java Spring
-        level: 50%
+        level: 55%
 
       - name: Javascript & jQuery
         level: 50%      
